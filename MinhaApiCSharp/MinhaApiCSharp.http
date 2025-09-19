@@ -1,0 +1,6 @@
+@MinhaApiCSharp_HostAddress = http://localhost:5113
+
+GET {{MinhaApiCSharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
